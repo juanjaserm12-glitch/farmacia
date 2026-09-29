@@ -1,0 +1,2 @@
+# farmacia
+creador de inventario 
